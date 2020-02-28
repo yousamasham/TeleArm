@@ -1,0 +1,1 @@
+# TeleArm is a python program that controls servo motors through signals given through push buttons. It was initally designed as an aid for a paraplegic client who was having trouble accessing buttons to open campus building doors
